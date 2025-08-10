@@ -24,8 +24,6 @@ permalink: /member/
   **Email:** myou@uos.ac.kr<br>
   **Office:** R#512, Info.&Tech. Bldg., University of Seoul<br>
   **Address:** School of Electrical and Computer Engineering, University of Seoul, 163 Seoulsiripdae-ro, Seoul, Republic of Korea<br><br>
-  
-  Prof. You received his Ph.D. in Computer Science from KAIST in 2025. His research focuses on developing trustworthy networked systems with emphasis on cloud security, network performance optimization, and hardware-assisted security mechanisms.
 </div>
 </div>
 
@@ -34,15 +32,8 @@ permalink: /member/
 ## Doctoral Students
 
 <div class="well">
-<h4>🎓 We are actively recruiting PhD students!</h4>
-<p>We are looking for motivated students interested in:</p>
-<ul>
-  <li>Cloud Computing and Distributed Systems</li>
-  <li>Network Security and Protocol Analysis</li>
-  <li>System Security and Hardware-based Security</li>
-  <li>AI-Assisted Networked Systems</li>
-</ul>
-<p><strong>Requirements:</strong> Strong background in computer systems, networking, or security. Programming experience in C/C++, Python, or Go preferred.</p>
+<h4>🎓 박사과정 모집중</h4>
+<p>클라우드 컴퓨팅, 네트워크 보안, 시스템 보안 분야에 관심있는 박사과정 학생을 모집합니다.</p>
 </div>
 
 ---
@@ -50,15 +41,8 @@ permalink: /member/
 ## Master Students
 
 <div class="well">
-<h4>📚 We are actively recruiting Master students!</h4>
-<p>We welcome Master students who want to gain research experience in:</p>
-<ul>
-  <li>Cloud networking and container technologies</li>
-  <li>Network security and intrusion detection</li>
-  <li>System performance optimization</li>
-  <li>Hardware accelerated networking</li>
-</ul>
-<p><strong>What we offer:</strong> Research stipend, mentorship, conference publication opportunities, and industry collaboration experience.</p>
+<h4>📚 석사과정 모집중</h4>
+<p>네트워크 보안 및 분산 시스템 연구에 참여할 석사과정 학생을 모집합니다.</p>
 </div>
 
 ---
@@ -66,16 +50,8 @@ permalink: /member/
 ## Undergraduate Students
 
 <div class="well">
-<h4>🔬 We are actively recruiting undergraduate interns!</h4>
-<p>We offer undergraduate research internship opportunities for students interested in:</p>
-<ul>
-  <li>Hands-on experience with cutting-edge research</li>
-  <li>Learning advanced networking and security concepts</li>
-  <li>Working with real-world systems and testbeds</li>
-  <li>Potential pathway to graduate school</li>
-</ul>
-<p><strong>Benefits:</strong> Research experience, mentorship from graduate students, potential co-authorship on papers, and strong recommendation letters.</p>
-<p><strong>Requirements:</strong> Basic programming skills, strong motivation to learn, and commitment to research.</p>
+<h4>🔬 학부 인턴 모집중</h4>
+<p>연구에 관심있는 학부생 인턴을 모집합니다. 연구 경험과 멘토링을 제공합니다.</p>
 </div>
 
 ---
