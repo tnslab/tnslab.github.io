@@ -97,27 +97,6 @@ Our research focuses on trustworthy networked systems, including network securit
 
 ---
 
-## Preprints and Under Review
-
-### 2025
-- **EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models** <br />
-  *Minjae Seo, Myoungsung You, Junhee Lee, Jaehan Kim, Hwanjo Heo, Jintae Oh, Jinwoo Kim* <br />
-  arXiv preprint arXiv:2504.08205, 2025 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/eo_vlm_arxiv2025.pdf) | [arXiv](https://arxiv.org/abs/2504.08205)
-
-- **AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities** <br />
-  *Minjae Seo, Wonwoo Choi, Myoungsung You, Seungwon Shin* <br />
-  arXiv preprint arXiv:2505.04195, 2025 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/autopatch_arxiv2025.pdf) | [arXiv](https://arxiv.org/abs/2505.04195)
-
-### 2023
-- **Poster: Towards a Secure and Practical System to Obfuscate Tor Network Traffic** <br />
-  *Minjae Seo, Myoungsung You, Taejune Park, Seungwon Shin, Jinwoo Kim* <br />
-  Poster, 2023 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/tor_obfuscation_poster2023.pdf)
-
----
-
 ## International Patents
 
 ### 2025
