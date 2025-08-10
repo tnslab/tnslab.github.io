@@ -9,7 +9,7 @@
 title: TNSLab
 email: myou@uos.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the TNSLab - Trustworthy Networked System Laboratory.
+  Website of the TNSLab - Trustworthy Networked System Laboratory
 baseurl: ""
 url: "https://tnslab.github.io"
 
