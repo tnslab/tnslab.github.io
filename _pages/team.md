@@ -17,14 +17,15 @@ permalink: /member/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/myoungsung_you.jpg" class="img-responsive" width="30%" style="float: left; margin-right: 15px;" />
   <h4>Prof. Myoungsung You</h4>
   <i>Assistant Professor</i><br>
-  Department of Electrical and Computer Engineering<br>
+  School of Electrical and Computer Engineering<br>
   University of Seoul (UOS)<br><br>
   
   **Research Interests:** Cloud Computing, Network Security, System Security<br>
   **Email:** myou@uos.ac.kr<br>
-  **Office:** Room XXX, Engineering Building<br><br>
+  **Office:** R#512, Info.&Tech. Bldg., University of Seoul<br>
+  **Address:** School of Electrical and Computer Engineering, University of Seoul, 163 Seoulsiripdae-ro, Seoul, Republic of Korea<br><br>
   
-  Prof. You received his Ph.D. in Computer Science from KAIST in 2024. His research focuses on developing trustworthy networked systems with emphasis on cloud security, network performance optimization, and hardware-assisted security mechanisms.
+  Prof. You received his Ph.D. in Computer Science from KAIST in 2025. His research focuses on developing trustworthy networked systems with emphasis on cloud security, network performance optimization, and hardware-assisted security mechanisms.
 </div>
 </div>
 
@@ -42,7 +43,6 @@ permalink: /member/
   <li>AI-Assisted Networked Systems</li>
 </ul>
 <p><strong>Requirements:</strong> Strong background in computer systems, networking, or security. Programming experience in C/C++, Python, or Go preferred.</p>
-<p><strong>Contact:</strong> Please send your CV and research interests to myou@uos.ac.kr</p>
 </div>
 
 ---
@@ -59,7 +59,6 @@ permalink: /member/
   <li>Hardware accelerated networking</li>
 </ul>
 <p><strong>What we offer:</strong> Research stipend, mentorship, conference publication opportunities, and industry collaboration experience.</p>
-<p><strong>Contact:</strong> Please send your CV and transcript to myou@uos.ac.kr</p>
 </div>
 
 ---
@@ -77,7 +76,6 @@ permalink: /member/
 </ul>
 <p><strong>Benefits:</strong> Research experience, mentorship from graduate students, potential co-authorship on papers, and strong recommendation letters.</p>
 <p><strong>Requirements:</strong> Basic programming skills, strong motivation to learn, and commitment to research.</p>
-<p><strong>Contact:</strong> Please send your CV and brief statement of interest to myou@uos.ac.kr</p>
 </div>
 
 ---
@@ -87,25 +85,6 @@ permalink: /member/
 <div class="well">
 <h4>🎖️ Lab Alumni</h4>
 <p>As a newly established lab, we look forward to building a strong alumni network. Our future alumni will go on to pursue successful careers in academia, industry, and entrepreneurship.</p>
-<p><strong>Future destinations we envision for our students:</strong></p>
-<ul>
-  <li>Top-tier PhD programs worldwide</li>
-  <li>Leading technology companies (Google, Microsoft, Amazon, etc.)</li>
-  <li>Cybersecurity companies and startups</li>
-  <li>Research institutions and national laboratories</li>
-</ul>
 </div>
 
 ---
-
-## Join Our Team!
-
-**Why choose TNSLab?**
-
-- 🚀 **Cutting-edge Research**: Work on the latest problems in cloud computing, network security, and AI-assisted systems
-- 🏆 **Publication Opportunities**: Publish in top-tier conferences and journals (IEEE INFOCOM, ICDCS, ACM SoCC, etc.)
-- 🤝 **Industry Collaboration**: Work with leading companies and research institutions
-- 🌟 **Mentorship**: Receive personalized guidance for career development
-- 💡 **Innovation**: Access to state-of-the-art computing resources and testbeds
-
-**Ready to join us?** Send an email to **myou@uos.ac.kr** with your CV and research interests!

@@ -1,11 +1,15 @@
-# Allan Lab Website
+# TNSLab Website
 
-This is the website of our academic research group at Leiden University.
+This is the website of the Trustworthy Networked System Laboratory (TNSLab) at University of Seoul.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
+TNSLab is led by Prof. Myoungsung You in the Department of Electrical and Computer Engineering. Our laboratory focuses on developing trustworthy networked systems that are secure, reliable, and efficient.
 
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+Visit our website at [https://tnslab.github.io](https://tnslab.github.io) to learn more about our research, team, and publications.
 
+## Research Areas
+- Cloud Computing Security
+- Network Security
+- System Security
 
-Copyright Allan Lab. Code released under the MIT License.
+Copyright TNSLab. Code released under the MIT License.
 
