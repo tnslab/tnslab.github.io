@@ -20,7 +20,7 @@ Our research focuses on trustworthy networked systems, including network securit
 - **MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting** <br />
   *Minjae Seo, Myoungsung You, Jaehan Kim, Taejune Park, Seungwon Shin, Jinwoo Kim* <br />
   IEEE INFOCOM 2025 - IEEE Conference on Computer Communications <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/MUFFLER.pdf) | [DOI](#)
+  [PDF - Coming Soon](#) | [DOI](#)
 
 - **CR-ATTACKER: Exploiting Crash-Reporting Systems Using Timing Gap and Unrestricted File-Based Workflow** <br />
   *Seong-Joong Kim, Myoungsung You, Seungwon Shin* <br />
