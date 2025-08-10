@@ -7,11 +7,11 @@
 
 # Site settings
 title: TNSLab
-email: your-email@domain.com
+email: myou@uos.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TNSLab - Trustworthy Networked System Laboratory.
 baseurl: ""
-url: ""
+url: "https://tnslab.github.io"
 
 include:
   - .htaccess

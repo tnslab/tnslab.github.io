@@ -1,12 +1,12 @@
 ---
-title: "TNSLab - Projects"
+title: "TNSLab - Research"
 layout: textlay
-excerpt: "TNSLab -- Projects"
+excerpt: "TNSLab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research Projects
+# Research Areas
 
 The Trustworthy Networked Systems Lab (TNS Lab) advances the foundations and practice of high-performance, trustworthy networked systems. We design and evaluate programmable data planes, systems software, and security mechanisms that scale from a single server to Internet-scale infrastructure. Our work spans operating systems, networking, and security, with a strong emphasis on measurable performance, verifiable correctness, and deployability in real platforms.
 
