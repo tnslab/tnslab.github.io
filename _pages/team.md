@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "TNSLab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "TNSLab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Team Members
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 

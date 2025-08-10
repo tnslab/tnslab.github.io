@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Research"
+title: "TNSLab - Projects"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "TNSLab -- Projects"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Projects
 
 Updating soon -- stay put. (Aug 11 2023)
 
