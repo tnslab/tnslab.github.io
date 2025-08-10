@@ -9,9 +9,6 @@ permalink: /publications/
 
 # Publications
 
-## Research Focus
-Our research focuses on trustworthy networked systems, including network security, distributed systems, system reliability, and IoT security. Below are our key publications organized by venue type.
-
 ---
 
 ## International Conferences/Journals

@@ -8,8 +8,6 @@ permalink: /research/
 
 # Research Areas
 
-The Trustworthy Networked Systems Lab (TNS Lab) advances the foundations and practice of high-performance, trustworthy networked systems. We design and evaluate programmable data planes, systems software, and security mechanisms that scale from a single server to cloud-scale infrastructure.
-
 ---
 
 ## 1. Cloud Networking
