@@ -32,7 +32,7 @@ permalink: /member/
 ## Doctoral Students
 
 <div class="well">
-<h4>🎓 박사과정 모집중</h4>
+<h4>🎓 We are recruiting PhD students! / 박사과정 모집중</h4>
 <p>클라우드 컴퓨팅, 네트워크 보안, 시스템 보안 분야에 관심있는 박사과정 학생을 모집합니다.</p>
 </div>
 
@@ -41,7 +41,7 @@ permalink: /member/
 ## Master Students
 
 <div class="well">
-<h4>📚 석사과정 모집중</h4>
+<h4>📚 We are recruiting Master students! / 석사과정 모집중</h4>
 <p>네트워크 보안 및 분산 시스템 연구에 참여할 석사과정 학생을 모집합니다.</p>
 </div>
 
@@ -50,7 +50,7 @@ permalink: /member/
 ## Undergraduate Students
 
 <div class="well">
-<h4>🔬 학부 인턴 모집중</h4>
+<h4>🔬 We are recruiting undergraduate interns! / 학부 인턴 모집중</h4>
 <p>연구에 관심있는 학부생 인턴을 모집합니다. 연구 경험과 멘토링을 제공합니다.</p>
 </div>
 
