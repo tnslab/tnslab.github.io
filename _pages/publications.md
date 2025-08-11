@@ -15,7 +15,7 @@ permalink: /publications/
 
 ### 2025
 - **MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting** <br />
-  *Minjae Seo, Myoungsung You, Jaehan Kim, Taejune Park, Seungwon Shin, Jinwoo Kim* <br />
+  *Minjae Seo*, *Myoungsung You* (Co-first authors), *Jaehan Kim, Taejune Park, Seungwon Shin, Jinwoo Kim* <br />
   IEEE INFOCOM 2025 - IEEE Conference on Computer Communications <br />
   [PDF - Coming Soon](#) | [DOI](#)
 
