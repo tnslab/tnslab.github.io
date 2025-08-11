@@ -36,10 +36,12 @@ We design and implement practical security systems for cloud environments, capab
 
 ## 3. AI-Assisted Networked Systems
 
-We leverage AI (e.g., LLMs) to synthesize, optimize, and validate network functions and configurations in runtime.
+We leverage AI to automatically generate, optimize, and validate various network functions and network configurations used in cloud environments. We currently focus on generating network functions offloadable for a given SmartNIC and testing the correctness of the generated network functions.
 
 ### Focus Areas
 
 **Network function generation**: Automatically generating match-action pipelines and stateful network functions for programmable hardware targets from high-level, natural language specifications.
 
 **Configuration and policy generation**: Translating network topology, service-level objectives, and traffic requirements into deployable configurations and policy bundles (e.g., ACLs and routing rules), enabling rapid and error-resistant provisioning of networked systems.
+
+**Network function testing**: Automatically testing the functional and syntactic correctness of a given network function by generating effective and valid test cases through LLMs.

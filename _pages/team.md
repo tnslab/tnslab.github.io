@@ -13,15 +13,17 @@ permalink: /member/
 ## Faculty
 
 <div class="row">
-<div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" class="img-responsive" width="15%" style="float: left; margin-right: 15px;" />
-  <h4>Prof. Myoungsung You</h4>
-  Assistant Professor<br>
-  School of Electrical and Computer Engineering, University of Seoul (UOS)<br>
-  **Research Interests:** Cloud Computing, Network Security, System Security<br>
-  **Email:** famous {at} uos.ac.kr<br>
-  **Office:** R#512, Info.&Tech. Bldg., University of Seoul<br>
-  **More Info:** <a href="https://myou.github.io" target="_blank">CV & Personal Website</a><br><br>
+<div class="col-sm-12 clearfix" style="display: flex; align-items: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" class="img-responsive" width="15%" style="margin-right: 20px; flex-shrink: 0;" />
+  <div>
+    <h4>Prof. Myoungsung You</h4>
+    Assistant Professor<br>
+    School of Electrical and Computer Engineering, University of Seoul (UOS)<br>
+    **Research Interests:** Cloud Computing, Network Security, System Security<br>
+    **Email:** famous {at} uos.ac.kr<br>
+    **Office:** R#512, Info.&Tech. Bldg., University of Seoul<br>
+    **More Info:** <a href="https://myou.github.io" target="_blank">CV & Personal Website</a><br><br>
+  </div>
 </div>
 </div>
 

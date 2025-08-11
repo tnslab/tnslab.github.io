@@ -17,7 +17,7 @@ permalink: /publications/
 - **MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting** <br />
   *Minjae Seo*, *Myoungsung You* (Co-first authors), *Jaehan Kim, Taejune Park, Seungwon Shin, Jinwoo Kim* <br />
   IEEE INFOCOM 2025 - IEEE Conference on Computer Communications <br />
-  [PDF - Coming Soon](#) | [DOI](#)
+  [PDF]({{ site.url }}{{ site.baseurl }}/papers/MUFFLER.pdf) | [DOI](#)
 
 - **CR-ATTACKER: Exploiting Crash-Reporting Systems Using Timing Gap and Unrestricted File-Based Workflow** <br />
   *Seong-Joong Kim, Myoungsung You, Seungwon Shin* <br />
@@ -38,7 +38,7 @@ permalink: /publications/
 - **Fatriot: Fault-tolerant MEC architecture for mission-critical systems using a SmartNIC** <br />
   *Taejune Park, Myoungsung You, Jinwoo Kim, Seungsoo Lee* <br />
   Journal of Network and Computer Applications, Vol. 231, pp. 103978, 2024 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/fatriot_jnca2024.pdf) | [DOI](#)
+  [PDF]({{ site.url }}{{ site.baseurl }}/papers/fatriot.pdf) | [DOI](#)
 
 - **gshock: A gnn-based fingerprinting system for permissioned blockchain networks over encrypted channels** <br />
   *Minjae Seo, Jaehan Kim, Myoungsung You, Seungwon Shin, Jinwoo Kim* <br />
@@ -48,7 +48,7 @@ permalink: /publications/
 - **Uncovering Threats in Container Systems: A Study on Misconfigured Container Components in the Wild** <br />
   *Dongmin Choi, Hyunmin Seo, Kwanwoo Kim, Myoungsung You, Seungwon Shin, Jinwoo Kim* <br />
   IEEE Access, 2024 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/container_threats_access2024.pdf) | [DOI](#)
+  [PDF]({{ site.url }}{{ site.baseurl }}/papers/Uncovering.pdf) | [DOI](#)
 
 ### 2023
 - **Cryonics: Trustworthy Function-as-a-Service using Snapshot-based Enclaves** <br />
@@ -70,7 +70,7 @@ permalink: /publications/
 - **Heimdallr: Fingerprinting SD-WAN control-plane architecture via encrypted control traffic** <br />
   *Minjae Seo, Jaehan Kim, Eduard Marin, Myoungsung You, Taejune Park, Seungsoo Lee, Seungwon Shin, Jinwoo Kim* <br />
   Proceedings of the 38th Annual Computer Security Applications Conference, pp. 949-963 <br />
-  [PDF]({{ site.url }}{{ site.baseurl }}/papers/heimdallr_acsac2022.pdf) | [DOI](#)
+  [PDF]({{ site.url }}{{ site.baseurl }}/papers/Heimdallr.pdf) | [DOI](#)
 
 - **FuzzDocs: an automated security evaluation framework for IoT** <br />
   *Myoungsung You, Yeonkeun Kim, Jaehan Kim, Minjae Seo, Sooel Son, Seungwon Shin, Seungsoo Lee* <br />
