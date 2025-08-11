@@ -12,42 +12,34 @@ permalink: /research/
 
 ## 1. Cloud Networking
 
-We study cloud network data planes that enable containers and virtual machines to exchange data efficiently and predictably. Our approach couples workload-aware software stacks with selective hardware acceleration to maximize throughput while minimizing tail latency and CPU cost.
+We investigate the design and optimization of cloud network data planes that enable containers and virtual machines to exchange data with high efficiency and low latency. Our research combines workload-aware software network stacks with selective hardware acceleration, aiming to maximize throughput while minimizing CPU utilization and operational overhead.
 
 ### Focus Areas
 
-**Programmable data planes**: eBPF/XDP, DPDK, and kernel-bypass techniques for low-latency packet processing; safe in-kernel datapath extensions with verifier-friendly patterns.
+**Workload-aware network stack**: Leveraging advanced kernel-bypass techniques such as eBPF/XDP and DPDK to develop network stacks tailored to specific workload characteristics; incorporating specialized network functions (e.g., congestion control, flow scheduling) optimized for performance and resource efficiency.
 
-**Accelerated networking**: SmartNIC/DPU/FPGA offload for compute-intensive functions (e.g., TLS/QUIC handshakes, DPI, telemetry aggregation) and queue management at line rate.
-
-**Container/RDMA integration**: transparent RDMA support for TCP/IP workloads, verb-aware tracing, and policy-compliant redirection through user/kernelspace agents.
+**Hardware-accelerated networking**: Offloading compute-intensive network functions (e.g., TLS/QUIC handshakes, DPI, telemetry aggregation) to programmable hardware devices such as SmartNICs and FPGAs; building high-performance, scalable data planes for diverse cloud workloads.
 
 ---
 
 ## 2. Cloud Security
 
-We build practical security systems that identify and eliminate attack vectors across nodes, VMs, and containers in cloud environments. Our work includes runtime security enforcement systems and security enhanced container network interfaces.
+We design and implement practical security systems for cloud environments, capable of identifying and mitigating attack vectors across nodes, virtual machines, and containers. Our work emphasizes runtime enforcement and hardware-based isolation to ensure robust protection against sophisticated threats.
 
 ### Focus Areas
 
-**Policy synthesis and enforcement**: automatic derivation of least-privilege network and system policies from workload intent, provenance, and runtime context; inline enforcement via eBPF/SmartNICs.
+**Runtime security enforcement**: Automatically deriving least-privilege network and system policies from workload intent, provenance, and runtime context; enforcing these policies inline through mechanisms such as eBPF and SmartNIC-based processing.
 
-**Zero-trust networked systems**: micro-segmentation and per-workload identity, with continuous attestation of endpoints and data paths.
-
-**Efficient telemetry**: programmable, low-overhead collection and aggregation that preserves fidelity for forensics while bounding resource usage.
+**Hardware-isolated secyruty enforcement**: Migrating critical security functions from untrusted host CPUs to trusted hardware components such as DPUs and TEEs; ensuring policy enforcement integrity and performance even under potential host compromise.
 
 ---
 
 ## 3. AI-Assisted Networked Systems
 
-We leverage AI—especially large language models (LLMs)—to synthesize, optimize, and validate network functions and configurations, turning expert workflows into repeatable toolchains.
+We leverage AI (e.g., LLMs) to synthesize, optimize, and validate network functions and configurations in runtime.
 
 ### Focus Areas
 
-**NF synthesis and composition**: generating match-action pipelines and stateful NFs from formalized intent; compiling to safe eBPF/XDP or P4-like targets under verifier/hardware constraints.
+**Network function generation**: Automatically generating match-action pipelines and stateful network functions for programmable hardware targets from high-level, natural language specifications.
 
-**Autotuning and design-space exploration**: LLM-orchestrated search over protocol parameters, queueing policies, and offload placements with closed-loop measurement.
-
-**Configuration and policy generation**: translating topology, SLOs, and traffic descriptions into deployable configurations and policy bundles (e.g., ACLs, routing, rate limits).
-
-
+**Configuration and policy generation**: Translating network topology, service-level objectives, and traffic requirements into deployable configurations and policy bundles (e.g., ACLs and routing rules), enabling rapid and error-resistant provisioning of networked systems.
