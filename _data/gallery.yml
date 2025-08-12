@@ -1,0 +1,11 @@
+- image: "lab1.jpg"
+  alt: "TNSLab - Trustworthy Networked System Laboratory"
+  description: "Our laboratory focuses on advancing secure networked systems for cloud environments"
+
+- image: "lab2.jpg"
+  alt: "Research Areas - Cloud Computing, Network Security"
+  description: "Exploring cloud computing, network security, and system security research"
+
+- image: "lab3.jpg"
+  alt: "Welcome to Our Research Lab"
+  description: "Join us in pushing the boundaries of trustworthy networked systems"

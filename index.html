@@ -29,25 +29,26 @@ layout: textlay
   
   <div class="col-sm-6">
     <h3>Lab Gallery</h3>
-    <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+    <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" style="height: 300px; border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
         <!-- Menu -->
         <ol class="carousel-indicators">
-            <li data-target="#carousel" data-slide-to="0" class="active"></li>
-            <li data-target="#carousel" data-slide-to="1"></li>
-            <li data-target="#carousel" data-slide-to="2"></li>
+            {% for item in site.data.gallery %}
+            <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+            {% endfor %}
         </ol>
 
         <!-- Items -->
-        <div class="carousel-inner">
-            <div class="item active">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab1.jpg" alt="TNSLab - Trustworthy Networked System Laboratory" />
+        <div class="carousel-inner" style="height: 100%;">
+            {% for item in site.data.gallery %}
+            <div class="item {% if forloop.first %}active{% endif %}" style="height: 100%;">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/slider/{{ item.image }}" alt="{{ item.alt }}" style="width: 100%; height: 100%; object-fit: cover;" />
+                {% if item.description %}
+                <div class="carousel-caption">
+                    <p>{{ item.description }}</p>
+                </div>
+                {% endif %}
             </div>
-            <div class="item">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab2.jpg" alt="Research Areas - Cloud Computing, Network Security" />
-            </div>
-            <div class="item">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab3.jpg" alt="Welcome to Our Research Lab" />
-            </div>
+            {% endfor %}
         </div>
         <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
