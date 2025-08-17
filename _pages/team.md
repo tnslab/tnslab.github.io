@@ -12,17 +12,28 @@ permalink: /member/
 
 ## Faculty
 
-<div class="row">
-<div class="col-sm-12 clearfix" style="display: flex; align-items: center; gap: 32px; min-height: 180px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" class="img-responsive" style="width: 120px; height: 150px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); flex-shrink: 0;" alt="Prof. Myoungsung You" />
-  <div style="display: flex; flex-direction: column; justify-content: center; height: 100%;">
-    <div style="font-size: 1.25em; font-weight: bold; margin-bottom: 2px;">Prof. Myoungsung You</div>
-    <div style="margin-bottom: 2px;">Assistant Professor</div>
-    <div style="margin-bottom: 2px;">School of Electrical and Computer Engineering,<br>University of Seoul (UOS)</div>
-    <div style="margin-bottom: 2px;"><strong>Research Interests:</strong> Cloud Computing, Network Security, System Security</div>
-    <div style="margin-bottom: 2px;"><strong>Email:</strong> famous {at} uos.ac.kr</div>
-    <div style="margin-bottom: 2px;"><strong>Office:</strong> R#512, Info.&Tech. Bldg., University of Seoul</div>
-    <div><strong>More Info:</strong> <a href="https://myou.github.io" target="_blank">CV & Personal Website</a></div>
+<div class="row" style="margin-bottom: 32px; align-items: center;">
+  <div class="col-sm-4" style="text-align: center;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" alt="Prof. Myoungsung You" style="max-width: 220px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 16px;" />
+  </div>
+  <div class="col-sm-8" style="display: flex; flex-direction: column; justify-content: center;">
+    <h2 style="color: #1766a3; font-weight: bold; margin-top: 0; margin-bottom: 12px;">Myoungsung You, Ph.D.</h2>
+    <div style="font-size: 1.1em; margin-bottom: 10px;">
+      Assistant Professor<br>
+      School of Electrical and Computer Engineering<br>
+      University of Seoul (UOS), Republic of Korea
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong>Office:</strong> R#512, Info.&Tech. Bldg., University of Seoul<br>
+      <strong>Email:</strong> famous {at} uos.ac.kr
+    </div>
+    <div style="margin-bottom: 10px;">
+      <strong>More Info:</strong> <a href="https://myou.github.io" target="_blank">CV & Personal Website</a>
+    </div>
+    <div style="margin-top: 18px;">
+      <strong>Research Interests:</strong><br>
+      Cloud Computing, Network Security, System Security
+    </div>
   </div>
 </div>
 </div>
