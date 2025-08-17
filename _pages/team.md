@@ -13,16 +13,16 @@ permalink: /member/
 ## Faculty
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="display: flex; align-items: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" class="img-responsive" width="15%" style="margin-right: 20px; flex-shrink: 0;" />
-  <div>
-    <h4>Prof. Myoungsung You</h4>
-    <p>Assistant Professor<br>
-    School of Electrical and Computer Engineering, University of Seoul (UOS)</p>
-    <p><strong>Research Interests:</strong> Cloud Computing, Network Security, System Security</p>
-    <p><strong>Email:</strong> famous {at} uos.ac.kr</p>
-    <p><strong>Office:</strong> R#512, Info.&Tech. Bldg., University of Seoul</p>
-    <p><strong>More Info:</strong> <a href="https://myou.github.io" target="_blank">CV & Personal Website</a></p>
+<div class="col-sm-12 clearfix" style="display: flex; align-items: center; gap: 32px; min-height: 180px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/you.jpg" class="img-responsive" style="width: 120px; height: 150px; object-fit: cover; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); flex-shrink: 0;" alt="Prof. Myoungsung You" />
+  <div style="display: flex; flex-direction: column; justify-content: center; height: 100%;">
+    <div style="font-size: 1.25em; font-weight: bold; margin-bottom: 2px;">Prof. Myoungsung You</div>
+    <div style="margin-bottom: 2px;">Assistant Professor</div>
+    <div style="margin-bottom: 2px;">School of Electrical and Computer Engineering,<br>University of Seoul (UOS)</div>
+    <div style="margin-bottom: 2px;"><strong>Research Interests:</strong> Cloud Computing, Network Security, System Security</div>
+    <div style="margin-bottom: 2px;"><strong>Email:</strong> famous {at} uos.ac.kr</div>
+    <div style="margin-bottom: 2px;"><strong>Office:</strong> R#512, Info.&Tech. Bldg., University of Seoul</div>
+    <div><strong>More Info:</strong> <a href="https://myou.github.io" target="_blank">CV & Personal Website</a></div>
   </div>
 </div>
 </div>
